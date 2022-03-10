@@ -1,0 +1,253 @@
+﻿  Win32_bit_platform.cpp
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\BMP.h(133,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(15,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(16,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(17,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(249,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(183): message : see reference to function template instantiation 'std::pair<float,float>::pair<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(249,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(190,11): warning C4244: 'initializing': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(190,31): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(240,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(305,37): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(306,39): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(362,35): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(363,37): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(459,35): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(460,37): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(515,75): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(515,59): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(516,85): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(516,69): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(521,75): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(521,59): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(522,85): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(522,69): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(527,75): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(527,59): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(528,85): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(528,69): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(533,75): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(533,59): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(534,85): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(534,69): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(572,35): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(573,37): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(671,35): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(672,37): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(893,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(934,25): warning C4244: 'initializing': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1184,59): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1184,90): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1186,59): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1186,90): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1188,59): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1188,90): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1190,59): warning C4244: '=': conversion from 'int' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(1190,90): warning C4244: '=': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(307,24): warning C4244: '=': conversion from 'const _Ty1' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(496): message : see reference to function template instantiation 'std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(const std::pair<float,float> &) noexcept' being compiled
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(496): message : see reference to function template instantiation 'std::pair<int,int> &std::pair<int,int>::operator =<float,float,0>(const std::pair<float,float> &) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(308,24): warning C4244: '=': conversion from 'const _Ty2' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(318,39): warning C4244: '=': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(880): message : see reference to function template instantiation 'std::pair<float,float> &std::pair<float,float>::operator =<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+C:\Users\jovan\Desktop\vs zadaci\PEKMEN\my game\Win32_bit_platform.cpp(880): message : see reference to function template instantiation 'std::pair<float,float> &std::pair<float,float>::operator =<int,int,0>(std::pair<int,int> &&) noexcept' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(319,39): warning C4244: '=': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  Generating code
+  0 of 392 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  my game.vcxproj -> C:\Users\jovan\Desktop\vs zadaci\PEKMEN\x64\Release\my game.exe
